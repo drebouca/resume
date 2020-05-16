@@ -1,15 +1,20 @@
 ---
-title: "Paper Title Number 1"
+title: "Relationship between item characteristics and detection of Differential Item Functioning under the MIMIC model"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2019-08-01-dif-paper
+excerpt: 'In this study, we show that DIF items are more easily detected if they have high discrimination and at least moderate difficulty.'
+date: 2019-08-01
+venue: 'Psychological Test and Assessment Modeling'
+paperurl: 'https://www.psychologie-aktuell.com/fileadmin/Redaktion/Journale/ptam-2019-2/06_Reboucas.pdf'
+citation: 'Rebouças, D. A., & Cheng, Y. (2019). Relationship between item characteristics and detection of Differential Item Functioning under the MIMIC model. <i>Psychological Test and Assessment Modeling</i>, <i>61</i>(<i>2</i>), 227–257.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+The ability to detect differential item functioning (DIF) depends on many factors, including
+__sample size__ of each demographic group, average true latent trait scores in each group, the
+chosen DIF assessment method, the magnitude of DIF effect and the quality of the anchor set.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+In this two-part study, we show rates of identifying DIF items are higher when the anchor set is made up of highly discriminating items. We also show that DIF items are more easily detected if they have high discrimination and at least moderate difficulty (if using a correctly specified anchor).
+
+[Download paper here](https://www.psychologie-aktuell.com/fileadmin/Redaktion/Journale/ptam-2019-2/06_Reboucas.pdf)
+
+Recommended citation: Rebouças, D. A., & Cheng, Y. (2019). Relationship between item characteristics and detection of Differential Item Functioning under the MIMIC model. <i>Psychological Test and Assessment Modeling</i>, <i>61</i>(<i>2</i>), 227–257.
