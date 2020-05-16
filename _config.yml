@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Dani Rebouças"
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "South Bend, IN"
-  employer         : "University of Notre Dame"
+  employer         : # "University of Notre Dame"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=CObF0fQAAAAJ&hl=en&oi=ao"
   email            :
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   impactstory      :
-  lastfm           : "https://scholar.google.com/citations?user=CObF0fQAAAAJ&hl=en&oi=ao"
+  lastfm           :
   linkedin         : "https://www.linkedin.com/in/dreboucas/"
   orcid            : "https://orcid.org/0000-0002-1975-8183"
   pinterest        :
