@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dani Rebouças"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Doctorate candidate at the University of Notre Dame"
   location         : "South Bend, IN"
   employer         : # "University of Notre Dame"
   pubmed           :
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "dani429"
+  twitter          : # "dani429"
   vine             :
   weibo            :
   xing             :
