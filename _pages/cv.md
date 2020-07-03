@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please click [here](dreboucas.com/file/CV_Reboucas_complete.pdf) to access my CV.
+Please [click here](CV_Reboucas_complete.pdf) to access my CV.
 
 <!-- Education 
 ====== -->
