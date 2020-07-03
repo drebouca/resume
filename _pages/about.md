@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am 4th year PhD student in the Quantitative Psychology program at the University of Notre Dame. Ooof! That is a mouthful. Please feel free to explore my website (in construction, more to updates soon).
+I am a psychometrician in training :) Going on my 5th year as a PhD student in the Quantitative Psychology program at the University of Notre Dame. Please feel free to explore my website (in construction, more to updates soon).
+
+Check out my recent IMPS talk here: 
