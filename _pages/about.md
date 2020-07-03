@@ -10,4 +10,4 @@ redirect_from:
 
 I am a psychometrician in training :) Going on my 5th year as a PhD student in the Quantitative Psychology program at the University of Notre Dame. Please feel free to explore my website (in construction, more to updates soon).
 
-Check out my recent IMPS talk here: 
+Check out the slides for my recent [IMPS talk here](http://mathstats.co/imps-2020/).
