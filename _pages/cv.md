@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please <a href="drebouca.github.io/resume/files/CV_Reboucas_complete.pdf" target="_blank">click here</a> to access my CV.
+Please <a href="https://www.dreboucas.com/files/CV_Reboucas_complete.pdf" target="_blank">click here</a> to access my CV.
 
 <!-- Education 
 ====== -->
