@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-09-12-robust-paper.md
 excerpt: 'Undesirable response behavior, such as speeding and innatentive responding, have long plagued educational and psychological assessments. With the advances in response time modeling, the challenge of handling such responses must be addressed. In this article, we introduce a robust estimation approach for the respondent’s working speed under the log-normal model by down-weighting aberrant responses.'
 date: 2020-09-12
-venue: 'Psychological Test and Assessment Modeling'
+venue: '(accepted) Journal of Educational Measurement'
 #paperurl: 'https://www.psychologie-aktuell.com/fileadmin/Redaktion/Journale/ptam-2019-2/06_Reboucas.pdf'
 #citation: 'Hong, M., Rebouças, D. A., & Cheng, Y. (accepted). Robust Estimation for Response Time Modeling. <i>Journal of Educational Measurement</i>.'
 ---
