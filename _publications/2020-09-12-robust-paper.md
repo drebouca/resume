@@ -1,7 +1,7 @@
 ---
 title: "Robust Estimation for Response Time Modeling"
 collection: publications
-permalink: /publication/2020-09-12-robust-paper.md
+permalink: /publication/2020-09-12-robust-paper
 excerpt: 'Undesirable response behavior, such as speeding and innatentive responding, have long plagued educational and psychological assessments. With the advances in response time modeling, the challenge of handling such responses must be addressed. In this article, we introduce a robust estimation approach for the respondent’s working speed under the log-normal model by down-weighting aberrant responses.'
 date: 2020-09-12
 venue: '(accepted) Journal of Educational Measurement'
