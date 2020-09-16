@@ -4,8 +4,6 @@ excerpt: "Results reported for a UX survey from an e-learning system.<br/><img s
 collection: portfolio
 ---
 
-# UX Survey Report
-
 A user experience survey was developed and applied to students using the assessment system in the 2018-19 school year. A total of 423 students were surveyed from statistics classes throughout the school year. 
 
 For analyses script, please see [survey3-demo.R](https://github.com/drebouca/userx-survey/blob/master/survey3-demo.R).
