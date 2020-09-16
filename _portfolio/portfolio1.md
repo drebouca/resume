@@ -52,7 +52,7 @@ Finally, the data was changed from numerical (1,2,3,4,5) to categorical values (
 
 Using the `likert` package and a centered layout, we can plot response frequencies per category:
 
-<img src="images/userx_survey_treat_updated.png" width="800">
+<img src="/images/userx_survey_treat_updated.png" width="800">
 
 ### Main results
 
@@ -82,7 +82,7 @@ Below we see two figures regarding their satisfaction with the system and their 
 
 ### Factor 1: Satisfaction with the System
 
-<img src="images/userx_pf_satisfaction.png"
+<img src="/images/userx_pf_satisfaction.png"
     alt="Treatment group: Satisfaction"
     width="800">
 
@@ -92,7 +92,7 @@ Although the statistical test comparing total scores on the System Satisfaction 
 
 ### Factor 2: Learning Motivation
 
-<img src="images/userx_pf_learning.png"
+<img src="/images/userx_pf_learning.png"
     alt="Treatment group: Learning"
     width="800">
 
