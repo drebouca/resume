@@ -54,9 +54,9 @@ Using the `likert` package and a centered layout, we can plot response frequenci
 
 ### Main results
 
-- :white_check_mark: [# 12] _Answer keys_ are helpful (87\% selected "Agree" or "Strongly agree")
-- :white_check_mark: [# 13, 16] System is _easy to use_ and _fast_ (76-78\% selected "Agree" or "Strongly agree")
-- :white_check_mark: [# 8] Assessments are _very relevant_ to their curriculum (73\% selected "Agree" or "Strongly agree")
+- :heavy_check_mark: [# 12] _Answer keys_ are helpful (87\% selected "Agree" or "Strongly agree")
+- :heavy_check_mark: [# 13, 16] System is _easy to use_ and _fast_ (76-78\% selected "Agree" or "Strongly agree")
+- :heavy_check_mark: [# 8] Assessments are _very relevant_ to their curriculum (73\% selected "Agree" or "Strongly agree")
 - :x: [# 11] _Attribute reports_ are not as helpful as expected (about 53\% of students selected "Neutral" or worse)
 - :x: [# 7, 9] Students are either unfamiliar or dissatisfied with _FAQ_ and _scaffolding_ solutions (about 2/3 of students selected "Neutral" or worse)
 
