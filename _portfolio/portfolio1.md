@@ -42,7 +42,7 @@ Among a number of surveys, a User Experience was developed and assigned to each 
 
 A total of 235 students were given the userx survey. Of the total, 36 students did not answer the survey, and 19 were removed due to unreliable responses (long string of the same answer category). After removal of the data, a sample of $N=180$ students were used for these analyses. 
 
-Finally, the data was changed from numerical (1,2,3,4,5) to categorical values ("Strongly Disagree", "Disagree", "Neutral", "Agree", "Strongly Agree"). One reverse-coded item was present, but kept at the original scale for the purposes of data visualization.
+Finally, the data was changed from numerical (1, 2, 3, 4, 5) to categorical values ("Strongly Disagree", "Disagree", "Neutral", "Agree", "Strongly Agree"). One reverse-coded item was present, but kept at the original scale for the purposes of data visualization.
 
 
 
@@ -54,7 +54,7 @@ Using the `likert` package and a centered layout, we can plot response frequenci
 
 ### Main results
 
-- :white_check_mark: [# 12] _Answer keys_ are helpful (87\% selected "Agree" or "Strongly agree")
+- $:white_check_mark:$ [# 12] _Answer keys_ are helpful (87\% selected "Agree" or "Strongly agree")
 - :white_check_mark: [# 13, 16] System is _easy to use_ and _fast_ (76-78\% selected "Agree" or "Strongly agree")
 - :white_check_mark: [# 8] Assessments are _very relevant_ to their curriculum (73\% selected "Agree" or "Strongly agree")
 - :x: [# 11] _Attribute reports_ are not as helpful as expected (about 53\% of students selected "Neutral" or worse)
@@ -84,7 +84,7 @@ Below we see two figures regarding their satisfaction with the system and their 
     alt="Treatment group: Satisfaction"
     width="800">
 
-Students in the "Fail" group do not seem to be as satisfied as the "Pass" group when it comes to using the system as an assisted learning tool (#4) and with the process of taking assessments in the system (#6), since 28\% marked "Disagree" or "Strongly Disagree" for those items, compared to only 14\% and 8\%, respectively, for students in the "Pass" group. This indicates that students who feel like they benefit from the system are more likely to perform well on the AP exam.
+Students in the "Fail" group do not seem to be as satisfied as the "Pass" group when it comes to using the system as an assisted learning tool (#4) and with the process of taking assessments in the system (#6), since 28\% marked "Disagree" or "Strongly Disagree" for those items, compared to only 14% and 8%, respectively, for students in the "Pass" group. This indicates that students who feel like they benefit from the system are more likely to perform well on the AP exam.
 
 Although the statistical test comparing total scores on the System Satisfaction factor across Pass/Fail groups did not show significant difference between the two groups (p > .05), the estimate had high variability (due to a relatively small sample size) and system satisfaction could still be a predictor of good performance on the AP exam. This hypothesis requires further investigation. 
 
